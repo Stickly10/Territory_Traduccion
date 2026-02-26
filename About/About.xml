@@ -1,5 +1,12 @@
-Spanish Translation
-* Stickly
-Traduccion al espanol para Territory.SpanishTranslation
-* 1.0
-0.1.0
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Territory - Spanish Translation</name>
+  <author>Stickly</author>
+  <packageId>Stickly.SpanishTranslation</packageId>
+  <supportedVersions>
+    <li>1.0.20260227.01</li>
+  </supportedVersions>
+  <modVersion>1.0</modVersion>
+  <description>Traducción completa al español + nombres.</description>
+  <url>https://steamcommunity.com/app/1455910/workshop/</url>
+</ModMetaData>
