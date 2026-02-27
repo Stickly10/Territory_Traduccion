@@ -5,10 +5,10 @@
     <li>Stickly</li>
   </authors>
   <description>Traduccion completa al espanol + nombres.</description>
-  <url>https://steamcommunity.com/app/1455910/workshop/</url>
+  <url>https://github.com/Stickly10/Territory_Traduccion/</url>
   <packageId>Stickly.SpanishTranslation</packageId>
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <modVersion>1.0.1</modVersion>
+  <modVersion>1.1</modVersion>
 </ModMetaData>
