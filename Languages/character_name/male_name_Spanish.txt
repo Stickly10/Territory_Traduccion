@@ -48,7 +48,6 @@ Anastasio
 Anatolio
 Andoni
 André
-Andrea
 Andrés
 Andreu
 Ángel
@@ -130,9 +129,8 @@ Camilo
 Cándido
 Carles
 Carlo
-Carlos
+Cástulo
 Carmelo
-Carmine
 Casimiro
 Cassiano
 Cataldo
@@ -140,7 +138,6 @@ Catello
 Cayetano
 Cecilio
 Ceferino
-Celeste
 Celestino
 Celso
 César
@@ -155,7 +152,7 @@ Ciro
 Claudiano
 Cláudio
 Clemente
-Colombano
+Clemens
 Comunardo
 Concetto
 Conrado
@@ -234,7 +231,6 @@ Egeo
 Egidio
 Eladio
 Eleuterio
-Elia
 Elías
 Eligio
 Elio
@@ -308,7 +304,7 @@ Felipe
 Félix
 Ferdinando
 Fermín
-Fernando
+Ferán
 Ferran
 Ferruccio
 Fidel
@@ -428,7 +424,6 @@ Gustavo
 Guzmán
 Héctor
 Heitor
-Hélder
 Heliodoro
 Henrique
 Heraclio
@@ -466,7 +461,6 @@ Ildebrando
 Ildefonso
 Ildo
 Ilídio
-Imanol
 Imeldo
 Immacolato
 Inácio
@@ -500,7 +494,7 @@ Jacopo
 Jaime
 Januario
 Jaume
-Javier
+Jovian
 Jénerson
 Jeremías
 Jerónimo
@@ -522,7 +516,6 @@ Joseba
 Josep
 Josu
 Josué
-Jovita
 Juan
 Julian
 Júlio
@@ -561,7 +554,6 @@ Lodovico
 Lope
 Loreno
 Lorenzo
-Loreto
 Loris
 Luca
 Lucas
@@ -626,7 +618,6 @@ Michelangelo
 Michele
 Miguel
 Milo
-Minerva
 Miqueas
 Mirco
 Miro
@@ -634,7 +625,6 @@ Misael
 Modesto
 Mohamed
 Moisés
-Montserrat
 Muzio
 Nabor
 Nadir
@@ -796,7 +786,7 @@ René
 Renzo
 Respicio
 Ricard
-Ricardo
+Rufius
 Riccardo
 Rigoberto
 Rinaldo
@@ -874,7 +864,6 @@ Silvestre
 Silvestro
 Sílvio
 Simão
-Simeão
 Simeón
 Simeone
 Simón
@@ -940,7 +929,6 @@ Toribio
 Torquato
 Tosco
 Tranquillo
-Trinidad
 Tristán
 Tristano
 Tulliano
@@ -1015,7 +1003,6 @@ Xande
 Xavier
 Xico
 Ximeno
-Xisto
 Yago
 Yanni
 Yeray
@@ -1044,3 +1031,13 @@ Zito
 Zósimo
 Zótico
 Zózimo
+Juan
+José
+Luis
+Carlos
+Fernando
+Javier
+Antonio
+Ricardo
+Miguel
+Ramón

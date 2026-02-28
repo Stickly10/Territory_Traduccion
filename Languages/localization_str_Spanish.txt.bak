@@ -1,4 +1,4 @@
-<@ID=window_txt-1-txt_@>
+﻿<@ID=window_txt-1-txt_@>
 Las traducciones de este juego fueron aportadas y mejoradas por la comunidad. ¡Gracias!<br>Español: <color=#4CB34C>Stickly</color><br>Ruso: <color=#4CB34C>Zerlin</color>, <color=#4CB34C>Tristis Oris</color>
 <@ID=window_txt-2-txt_@>
 Ayuda a mejorar las traducciones
@@ -41,21 +41,21 @@ Matrimonio político en el extranjero
 <@ID=window_txt-1705-txt_@>
 Retirada
 <@ID=window_txt-1706-txt_@>
-Desaparece al cambiar de mapa
+Desaparición del interruptor del mapa
 <@ID=window_txt-1707-txt_@>
-Reubicación de los obreros
+Reubicación de los trabajadores
 <@ID=window_txt-1708-txt_@>
 Reubicación con la familia
 <@ID=window_txt-1709-txt_@>
-Enviado a asistir al conde
+Traslado para ayudar en el recuento
 <@ID=window_txt-1710-txt_@>
-Enemigo hecho prisionero
+El enemigo convertido en cautivo
 <@ID=window_txt-1711-txt_@>
-Enemigo transformado
+Enemigo convertido
 <@ID=window_txt-1712-txt_@>
-Se fue
+Salir normalmente
 <@ID=window_txt-1713-txt_@>
-Transformado por control mental
+Convertido tras control mental
 <@ID=window_txt-1714-txt_@>
 Regalado
 <@ID=window_txt-1715-txt_@>
@@ -71,13 +71,13 @@ Fallecido en tierra extranjera
 <@ID=window_txt-2000-txt_@>
 {0}, fecha de nacimiento desconocida, falleció el {1}, <color=#EE4242>{2}</color>
 <@ID=window_txt-2100-txt_@>
-{0}, nacido el {1}, falleció el {2}, con apenas {3} años, <color=#EE4242>{4}</color>
+{0}, nacido el {1}, falleció el {2}, a la edad de {3}, <color=#EE4242>{4}</color>
 <@ID=window_txt-2200-txt_@>
-{0}, nacido el {1}, falleció el {2}, a los {3} años, <color=#EE4242>{4}</color>
+{0}, nacido el {1}, falleció el {2}, a la edad de {3}, <color=#EE4242>{4}</color>
 <@ID=window_txt-2300-txt_@>
-{0}, con apenas {1} años: <color=#EE4242>{2}</color>
+{0}, a la edad de {1}: <color=#EE4242>{2}</color>
 <@ID=window_txt-2400-txt_@>
-{0}, a los {1} años: <color=#EE4242>{2}</color>
+{0}, a la edad de {1}: <color=#EE4242>{2}</color>
 <@ID=window_txt-2500-txt_@>
 Puede usar leña o carbón
 <@ID=window_txt-2600-txt_@>
@@ -85,23 +85,23 @@ Solo puede usar leña
 <@ID=window_txt-2700-txt_@>
 Solo se puede usar carbón
 <@ID=window_txt-2800-txt_@>
-No usar
+No utilizar
 <@ID=window_txt-2900-txt_@>
-Sin límite
+Ninguna
 <@ID=window_txt-3000-txt_@>
 Simple
 <@ID=window_txt-3100-txt_@>
-Común
+Estándar
 <@ID=window_txt-3200-txt_@>
 Excelente
 <@ID=window_txt-3300-txt_@>
-Superior
+Premium
 <@ID=window_txt-3400-txt_@>
 Raro
 <@ID=window_txt-3500-txt_@>
 Especial
 <@ID=window_txt-3600-txt_@>
-Supremo
+Último
 <@ID=window_txt-3700-txt_@>
 Legendario
 <@ID=window_txt-3800-txt_@>
@@ -209,7 +209,7 @@ Fallecido
 <@ID=window_txt-6709-txt_@>
 Enterrado
 <@ID=window_txt-6710-txt_@>
-Ha partido
+Fallecido
 <@ID=window_txt-6800-txt_@>
 Cerrar ventana
 <@ID=window_txt-6900-txt_@>
@@ -257,7 +257,7 @@ Primero debe establecer el tipo de estatua
 <@ID=window_txt-9000-txt_@>
 {0}(Días que faltan para la eclosión: <color=#EE4242>{1}</color>)
 <@ID=window_txt-9100-txt_@>
-No se encuentra en la tesorería:
+No se encuentra en el tesoro:
 <@ID=window_txt-9200-txt_@>
 No se han encontrado objetos utilizables:
 <@ID=window_txt-9300-txt_@>
@@ -289,7 +289,7 @@ Plata adquirida x{0}
 <@ID=window_txt-9904-txt_@>
 Recibido {0} x{1}
 <@ID=window_txt-9905-txt_@>
-{0} x{1} devueltos a la tesorería
+{0} x{1} devueltos al tesoro
 <@ID=window_txt-9906-txt_@>
 Suministro recibido correctamente
 <@ID=window_txt-9999-txt_@>
@@ -299,7 +299,7 @@ Suministros insuficientes en la tesorería
 <@ID=window_txt-10001-txt_@>
 No hay suficientes animales adultos para asignar
 <@ID=window_txt-10002-txt_@>
-No hay suficientes obreros adultos para enviar
+No hay suficientes trabajadores adultos para desplegar
 <@ID=window_txt-10100-txt_@>
 Tecnologías desbloqueadas:
 <@ID=window_txt-10200-txt_@>
@@ -309,7 +309,7 @@ El rango de edad es incorrecto
 <@ID=window_txt-10400-txt_@>
 No te rindas. Lucha hasta el final.
 <@ID=window_txt-10401-txt_@>
-Misión principal completada. Entrega la misión primero.
+Misión principal completada. Por favor, envía primero la misión
 <@ID=window_txt-10500-txt_@>
 Instalaciones de trabajo aún no vinculadas.
 <@ID=window_txt-10600-txt_@>
@@ -319,7 +319,7 @@ Obtenido {0} x{1}
 <@ID=window_txt-10701-txt_@>
 Desbloqueado <color=#EE4242>{0}</color>
 <@ID=window_txt-10800-txt_@>
-Apareció {0} x{1}
+{0} x{1} ocurrido
 <@ID=window_txt-10900-txt_@>
 La próxima primavera, continuaremos plantando {0}
 <@ID=window_txt-11000-txt_@>
@@ -409,7 +409,7 @@ Esta clave no admite modificaciones
 <@ID=window_txt-15400-txt_@>
 Esta clave ya está en uso
 <@ID=window_txt-15500-txt_@>
-No quedan obreros disponibles
+No hay más personal de mantenimiento
 <@ID=window_txt-15600-txt_@>
 Habilidades de titán no listas
 <@ID=window_txt-15700-txt_@>
@@ -417,7 +417,7 @@ No hay disponibles: {0}
 <@ID=window_txt-15701-txt_@>
 Construye primero el trono
 <@ID=window_txt-15702-txt_@>
-No hay suficiente plata en la tesorería, ni en los bancos
+No hay suficiente plata en el tesoro y los bancos
 <@ID=window_txt-15800-txt_@>
 El espacio de almacenamiento está lleno
 <@ID=window_txt-15900-txt_@>
@@ -425,11 +425,11 @@ Estación de caballos conectada
 <@ID=window_txt-15901-txt_@>
 Normas de transporte
 <@ID=window_txt-16000-txt_@>
-Entrada bloqueada
+Pase bloqueado
 <@ID=window_txt-16100-txt_@>
 Sin trabajadores
 <@ID=window_txt-16200-txt_@>
-Llenar
+Completo
 <@ID=window_txt-16300-txt_@>
 Cantidad
 <@ID=window_txt-16301-txt_@>
@@ -517,7 +517,7 @@ Plan
 <@ID=window_txt-19403-txt_@>
 Lord
 <@ID=window_txt-19404-txt_@>
-Victoria por reputación
+Reputación Victoria
 <@ID=window_txt-19405-txt_@>
 Diplomacia
 <@ID=window_txt-19406-txt_@>
@@ -529,7 +529,7 @@ Lista de tareas globales
 <@ID=window_txt-19500-txt_@>
 Invoca
 <@ID=window_txt-19600-txt_@>
-Invoca a los duendes del Pilar Totémico como obreros
+Invoca a los Elfos del Pilar Totémico para que te sirvan de ayudantes
 <@ID=window_txt-19700-txt_@>
 La invocación ha fallado, no se ha encontrado ningún pilar tótem
 <@ID=window_txt-19701-txt_@>
@@ -643,9 +643,9 @@ Después de <color=#4CB34C>seleccionar el área</color>, los residentes recolect
 <@ID=window_txt-23900-txt_@>
 <color=#4CB34C>Selecciona</color> la <color=#EE4242>carretera</color> o el <color=#EE4242>suelo</color> que se va a eliminar
 <@ID=window_txt-24000-txt_@>
-<color=#4CB34C>Enmarca</color> tareas de <color=#EE4242>recogida</color>, <color=#EE4242>transporte</color> o <color=#EE4242>construcción</color> que deben priorizarse
+<color=#4CB34C>Seleccionar marco</color> tareas de <color=#EE4242>recogida</color>, <color=#EE4242>transporte</color> o <color=#EE4242>construcción</color> que deben priorizarse
 <@ID=window_txt-24100-txt_@>
-<color=#4CB34C>Enmarca</color> instalaciones similares, modificar sus atributos <color=#EE4242>por lotes</color>
+<color=#4CB34C>Seleccionar marco</color> instalaciones similares, modificar sus atributos <color=#EE4242>por lotes</color>
 <@ID=window_txt-24101-txt_@>
 <color=#4CB34C>Selecciona</color> barcos similares y <color=#EE4242>modifica por lotes</color> su configuración
 <@ID=window_txt-24102-txt_@>
@@ -859,7 +859,7 @@ Añadir a la cola de investigación
 <@ID=window_txt-31600-txt_@>
 <color=#EE4242>Tesorería</color> carece de plata suficiente (<color=#EE4242>puede acumular plata mediante el comercio</color>), por lo que no puede adquirir los materiales de investigación necesarios.
 <@ID=window_txt-31700-txt_@>
-Construye primero la <color=#EE4242>Tesorería</color> y <color=#EE4242>acumula plata mediante el comercio</color> para comprar materiales de investigación.
+Construye primero el <color=#EE4242>Tesoro</color> y <color=#EE4242>acumula plata mediante el comercio</color> para comprar materiales de investigación.
 <@ID=window_txt-31800-txt_@>
 Tecnología previa aún no desbloqueada. ¿Añadir a la cola de investigación?
 <@ID=window_txt-31900-txt_@>
@@ -907,13 +907,13 @@ Nace un <color=#007FFF>niño</color> llamado <color={0}>{1}</color>.
 <@ID=window_txt-33800-txt_@>
 Prisionero <color={0}>{1}</color>, ejecutado a la edad de {2}
 <@ID=window_txt-33900-txt_@>
-{0}<color={1}>{2}</color>, <color=#EE4242>murió joven</color> por {3}, con apenas {4} años
+{0}<color={1}>{2}</color>, fallecido <color=#EE4242>a temprana edad</color> de {3}, a la edad de {4}.
 <@ID=window_txt-34000-txt_@>
-{0}<color={1}>{2}</color> falleció por {3}, a los {4} años
+{0}<color={1}>{2}</color>, falleció de {3} a la <color=#EE4242>desafortunada</color> edad de {4}
 <@ID=window_txt-34100-txt_@>
 Bebé <color={0}>{1}</color>, <color=#EE4242>murió de hambre</color>
 <@ID=window_txt-34200-txt_@>
-{0}<color={1}>{2}</color>, <color=#EE4242>murió de hambre</color>, con apenas {3} años
+{0}<color={1}>{2}</color>, <color=#EE4242>murió de hambre</color>, a la edad de {3}
 <@ID=window_txt-34300-txt_@>
 {0}<color={1}>{2}</color>, <color=#EE4242>murió de hambre</color>, a la edad de {3}
 <@ID=window_txt-34400-txt_@>
@@ -925,7 +925,7 @@ Bebé <color={0}>{1}</color>, <color=#EE4242>murió congelado</color>
 <@ID=window_txt-34700-txt_@>
 {0} <color={1}>{2}</color>, <color=#EE4242>murió congelado</color>, con solo {3} años
 <@ID=window_txt-34800-txt_@>
-{0}<color={1}>{2}</color>, <color=#EE4242>murió congelado</color>, a los {3} años
+{0} <color={1}>{2}</color>, <color=#EE4242>muerto congelado</color>, de {3} años
 <@ID=window_txt-34900-txt_@>
 Bebé <color={0}>{1}</color>, <color=#EE4242>sufrió un shock hipotérmico</color>
 <@ID=window_txt-35000-txt_@>
@@ -1753,7 +1753,7 @@ Lista de instalaciones
 <@ID=window_txt-71100-txt_@>
 Política demográfica
 <@ID=window_txt-71200-txt_@>
-Llamar a los Elfos como obreros
+Llamar a los Elfos como personal de mantenimiento
 <@ID=window_txt-71300-txt_@>
 Configuración de parámetros
 <@ID=window_txt-71400-txt_@>
@@ -3065,7 +3065,7 @@ Prohibición de incinerar los cuerpos de los residentes locales
 <@ID=window_txt-128500-txt_@>
 Ocultar artículos que normalmente no requieren reciclaje
 <@ID=window_txt-128501-txt_@>
-Los obreros ayudan a transportar los artículos para su cremación
+Los trabajadores ayudan a transportar los artículos para su cremación
 <@ID=window_txt-128800-txt_@>
 Tipo de trabajo: Fundición de metales
 <@ID=window_txt-128900-txt_@>
@@ -3209,7 +3209,7 @@ En uso
 <@ID=window_txt-136501-txt_@>
 Nota: los soldados solo tomarán suministros del «cuartel». Mantienen disciplina estricta y prefieren desmayarse de hambre antes que tomar suministros de otros lugares.
 <@ID=window_txt-136600-txt_@>
-Organiza a los obreros para transportar los suministros militares
+Organiza a los trabajadores para transportar los suministros militares
 <@ID=window_txt-136601-txt_@>
 Patrulla
 <@ID=window_txt-136602-txt_@>
@@ -4681,7 +4681,7 @@ Construido al aire libre, sin aislamiento
 <@ID=window_txt-198200-txt_@>
 (Objeto de batalla, requiere transporte por parte del personal de logística)
 <@ID=window_txt-198300-txt_@>
-(Artículos de combate, deben ser transportados por personal logístico) (Se permite su transporte por parte de obreros diversos)
+(Artículos de combate, deben ser transportados por personal logístico) (Se permite su transporte por parte de trabajadores diversos)
 <@ID=window_txt-198400-txt_@>
 (Los monstruos han estado activos recientemente en esta zona; no se recogerán durante {0} días)
 <@ID=window_txt-198500-txt_@>
@@ -4695,7 +4695,7 @@ Construido al aire libre, sin aislamiento
 <@ID=window_txt-198900-txt_@>
 (Configuración de Pirson: No rescatar prisioneros)
 <@ID=window_txt-199000-txt_@>
-(Esperar a que lleguen los <color=#EE4242>obreros</color> para el rescate)
+(Esperar a que lleguen los <color=#EE4242>trabajadores</color> para el rescate)
 <@ID=window_txt-199001-txt_@>
 (Recibiendo tratamiento médico)
 <@ID=window_txt-199100-txt_@>
@@ -4831,7 +4831,7 @@ Inventario previsto
 <@ID=window_txt-205300-txt_@>
 Ocultar artículos con inventario global cero
 <@ID=window_txt-205400-txt_@>
-Nota: Los artículos especiales de territorios aliados se adquieren automáticamente cada año a precios reducidos. La plata se deduce de la tesorería y los artículos se depositan automáticamente en la tesorería.
+Nota: Los artículos especiales de territorios afiliados se adquieren automáticamente cada año a precios reducidos. La plata se deduce del tesoro y los artículos se depositan automáticamente en el tesoro.
 <@ID=window_txt-205500-txt_@>
 Ver territorios dependientes
 <@ID=window_txt-205501-txt_@>
@@ -4853,7 +4853,7 @@ Establecer límite de producción
 <@ID=window_txt-205700-txt_@>
 Tabla de clasificación de producción
 <@ID=window_txt-205800-txt_@>
-Tamaño del mapa {0}x{1} 
+Tamaño del mapa {0} x{1}  
 Semilla {2}
 Versión {3}
 <@ID=window_txt-205900-txt_@>
@@ -5097,7 +5097,7 @@ Para todos los {0}, felicidad +{1}, eficiencia en el trabajo +{2} %
 <@ID=window_txt-215600-txt_@>
 Solo una recompensa al año
 <@ID=window_txt-215700-txt_@>
-Recursos insuficientes en la tesorería para ejecutar la recompensa
+Recursos insuficientes en el tesoro para ejecutar la recompensa
 <@ID=window_txt-215800-txt_@>
 Cancelar exención
 <@ID=window_txt-215900-txt_@>
@@ -5139,9 +5139,9 @@ Para mantener la dignidad noble, se requiere el consumo de oro x1
 <@ID=window_txt-217700-txt_@>
 Aunque haya caído cautivo, ¡no puedes comprar mi lealtad con títulos nobiliarios! (Resistencia > {0})
 <@ID=window_txt-217800-txt_@>
-La tesorería carece de oro suficiente.
+El tesoro carece de oro suficiente.
 <@ID=window_txt-217900-txt_@>
-Primero hay que construir la tesorería para acumular oro.
+Primero hay que construir el tesoro para acumular oro.
 <@ID=window_txt-217901-txt_@>
 <color=#4CB34C>{0}</color> Su belleza es como una flor (apariencia excepcionalmente atractiva), lo que atrae a numerosos pretendientes. Comprometerse con ella puede provocar disputas.
 <@ID=window_txt-218000-txt_@>
@@ -5437,7 +5437,7 @@ Aún no has elegido una fe y no puedes evangelizar.
 <@ID=window_txt-228500-txt_@>
 ¿Seguro que quieres difundir <color=#EE4242>{0}</color> aquí? Requiere consumir {1} x{2}.
 <@ID=window_txt-228600-txt_@>
-Libros insuficientes en la tesorería
+Libros insuficientes en el tesoro
 <@ID=window_txt-228700-txt_@>
 Ocupado por monstruos
 <@ID=window_txt-228800-txt_@>
@@ -5445,7 +5445,7 @@ Ocupado por bandidos
 <@ID=window_txt-228900-txt_@>
 Ocupado por bárbaros
 <@ID=window_txt-229000-txt_@>
-Aún no se ha construido ningúna tesorería, no se pueden recibir objetos.
+Aún no se ha construido ningún tesoro; no se pueden recibir objetos
 <@ID=window_txt-229100-txt_@>
 Tras la derrota de <color=#EE4242>{0}</color>, los bandidos aprovecharon el caos y ocuparon <color=#EE4242>{1}</color>
 <@ID=window_txt-229200-txt_@>
@@ -5939,7 +5939,7 @@ Formación estándar
 <@ID=window_txt-249600-txt_@>
 Formación de cerco
 <@ID=window_txt-249700-txt_@>
-Número de obreros que participan en la recolección: {0}
+Número de trabajadores que participan en la recolección: {0}
 <@ID=window_txt-249800-txt_@>
 Nivel de desarrollo:
 <@ID=window_txt-249900-txt_@>
@@ -5975,7 +5975,7 @@ Para dar la bienvenida al nuevo administrador, los residentes de <color=#EE4242>
 <@ID=window_txt-251200-txt_@>
 Además, se le han concedido derechos preferenciales de compra de especialidades locales.
 <@ID=window_txt-251300-txt_@>
-Puede configurar si desea ejercer este privilegio de compra en los ajustes del tesorería.
+Puede configurar si desea ejercer este privilegio de compra en los ajustes del tesoro.
 <@ID=window_txt-251400-txt_@>
 Tras la victoria en la batalla, <color=#4CB34C>{0}</color> los soldados enemigos bajo control mental se han rendido por completo.
 <@ID=window_txt-251500-txt_@>
@@ -6005,7 +6005,7 @@ Contratar trabajadores para el desarrollo. Requiere un gasto de <color=#EE4242>P
 <@ID=window_txt-252300-txt_@>
 Recursos necesarios:
 <@ID=window_txt-252400-txt_@>
-No hubo transacciones el año pasado (plata insuficiente en la tesorería)
+No hubo transacciones el año pasado (plata insuficiente en el tesoro)
 <@ID=window_txt-252500-txt_@>
 No hubo transacciones el año pasado (se alcanzó el límite de producción para este artículo)
 <@ID=window_txt-252600-txt_@>
@@ -6055,7 +6055,7 @@ Ocupado por bandidos, no es posible comerciar
 <@ID=window_txt-254800-txt_@>
 Ocupado por bárbaros, no es posible comerciar
 <@ID=window_txt-254900-txt_@>
-No se ha encontrado un número suficiente de obreros <color=#EE4242>{0}</color> para servir como inmigrantes en tareas de desarrollo
+No se ha encontrado un número suficiente de trabajadores <color=#EE4242>{0}</color> para servir como inmigrantes en tareas de desarrollo
 <@ID=window_txt-255000-txt_@>
 <color=#EE4242>{0}</color> La amenaza de los monstruos ha sido eliminada
 <@ID=window_txt-255100-txt_@>
@@ -6205,7 +6205,7 @@ Contratación <color=#EE4242>Nivel {0}</color> {1}
 <@ID=window_txt-259600-txt_@>
 La <color=#EE4242>tesorería</color> se está quedando sin plata.
 <@ID=window_txt-259700-txt_@>
-Primero debes construir la <color=#EE4242>tesorería</color> para acumular plata.
+Primero debes construir el <color=#EE4242>tesoro</color> para acumular plata.
 <@ID=window_txt-259800-txt_@>
 Tras la derrota del ejército, los habitantes del castillo decidieron rendirse y aceptar tu dominio.
 <@ID=window_txt-259900-txt_@>
@@ -7453,7 +7453,7 @@ Prioridad de tarea <color=#4CB34C>+{0}</color>
 <@ID=window_txt-308200-txt_@>
 Prioridad de tarea base
 <@ID=window_txt-308300-txt_@>
-El obreros se encarga de las tareas asignadas aquí. Las tareas de alta prioridad se ejecutarán primero.
+El personal de mantenimiento se encarga de las tareas asignadas aquí. Las tareas de alta prioridad se ejecutarán primero.
 <@ID=window_txt-308400-txt_@>
 Seleccionar sucesor
 <@ID=window_txt-308500-txt_@>
@@ -7473,7 +7473,7 @@ Recomendado por {0}
 <@ID=window_txt-309100-txt_@>
 ¿Seguro que quieres elegir a <color=#4CB34C>{0}</color> como tu heredero?
 <@ID=window_txt-309200-txt_@>
-Como muestra de agradecimiento, el heredero <color=#4CB34C>{0}</color> pagará al recomendante <color=#EE4242> {1} </color> con <color=#EE4242>Plata x{2}</color> (10 % de la Tesorería y 10 % de los depósitos bancarios).
+Como muestra de agradecimiento, el heredero <color=#4CB34C>{0}</color> pagará al recomendante <color=#EE4242> {1} </color> con <color=#EE4242>Plata x{2}</color> (10 % del Tesoro y 10 % de los depósitos bancarios).
 <@ID=window_txt-309201-txt_@>
 El Señor ya existe
 <@ID=window_txt-309300-txt_@>
@@ -8261,7 +8261,7 @@ Afortunadamente, estos hombres tenían unos cuantos hermanos leales que reuniero
 <@ID=window_txt-340100-txt_@>
 Rescate
 <@ID=window_txt-340200-txt_@>
-Tesorería de plata +{0}
+Tesoro de plata +{0}
 <@ID=window_txt-340300-txt_@>
 Depósito bancario +{0}
 <@ID=window_txt-340400-txt_@>
@@ -8563,7 +8563,7 @@ Total:
 <@ID=window_txt-353200-txt_@>
 Impuesto Real: <color=#EE4242>Plata x{0}</color>
 <@ID=window_txt-353201-txt_@>
-Gastos de la Tesorería
+Gastos del Tesoro
 <@ID=window_txt-353202-txt_@>
 Plata x{0}
 <@ID=window_txt-353300-txt_@>
@@ -9061,7 +9061,7 @@ Selecciona al destinatario de la recompensa.
 <@ID=window_txt-363148-txt_@>
 Seleccionar elemento
 <@ID=window_txt-363149-txt_@>
-Los suministros se han transferido a la tesorería y ahora están disponibles libremente
+Los suministros se han transferido al tesoro y ahora están disponibles libremente
 <@ID=window_txt-363150-txt_@>
 Recuperar
 <@ID=window_txt-363151-txt_@>
@@ -9365,7 +9365,7 @@ Está dispuesto a ofrecer <color=#4CB34C>plata x{0}</color>.
 <@ID=window_txt-371900-txt_@>
 Te pide que se lo des gratis.
 <@ID=window_txt-372100-txt_@>
-Solo se encontraron <color=#4CB34C>{0}</color> obreros que cumplían los requisitos de inmigración, lo que no alcanza los <color=#EE4242>{1}</color> necesarios.
+Solo se encontraron <color=#4CB34C>{0}</color> trabajadores que cumplían los requisitos de inmigración, lo que no alcanza los <color=#EE4242>{1}</color> necesarios.
 <@ID=window_txt-372200-txt_@>
 Los inmigrantes se han marchado, a la espera del pago de la otra parte.
 <@ID=window_txt-372300-txt_@>
@@ -9627,7 +9627,7 @@ Los trabajadores se reclutan automáticamente en la aldea cada año (coste por t
 <@ID=window_txt-384000-txt_@>
 Asignar automáticamente cada año recursos del imperio para <color=#4CB34C>reponer completamente</color> las necesidades de recursos, contabilizados como gastos de funcionamiento.
 <@ID=window_txt-384100-txt_@>
-Todos los productos objetivo se deducen anualmente de la tesorería y se envían al imperio, contabilizándose como producción operativa.
+Todos los productos objetivo se deducen anualmente del tesoro y se envían al imperio, contabilizándose como producción operativa.
 <@ID=window_txt-384101-txt_@>
 Este año, <color=#4CB34C>{0}</color> trabajadores (con un período de servicio de <color=#4CB34C>{1} años</color>) fueron reclutados en la aldea
 <@ID=window_txt-384102-txt_@>
@@ -9773,7 +9773,7 @@ Impuesto de exploración:
 <@ID=window_txt-388700-txt_@>
 Adquirir alma de dragón:
 <@ID=window_txt-388701-txt_@>
-Alma de dragón no recogida, <color=#4CB34C>{0}</color> Sin usar, se devolverá a la tesorería
+Alma de dragón no recogida, <color=#4CB34C>{0}</color> Sin usar, se devolverá al tesoro
 <@ID=window_txt-388702-txt_@>
 No se lleva <color=#4CB34C>{0}</color>, Alma de dragón no recogida
 <@ID=window_txt-388703-txt_@>
@@ -9789,7 +9789,7 @@ Recompensas potenciales:
 <@ID=window_txt-389200-txt_@>
 Intento de recolectar el alma del dragón ({0} % de probabilidad de éxito)
 <@ID=window_txt-389300-txt_@>
-No se ha podido localizar <color=#EE4242>{0}</color> en la tesorería. No se ha podido recoger el alma de dragón.
+No se ha podido localizar <color=#EE4242>{0}</color> en el tesoro. No se ha podido recoger el alma de dragón
 <@ID=window_txt-389400-txt_@>
 El equipo de expedición ha partido
 <@ID=window_txt-389500-txt_@>
@@ -9815,7 +9815,7 @@ El jugador en línea <color=#4CB34C>{0}({1})</color> ha rechazado tu regalo de <
 <@ID=window_txt-390500-txt_@>
 El Emperador te ha concedido los siguientes objetos:
 <@ID=window_txt-390600-txt_@>
-No mostrar más recordatorios, depositar directamente los ingresos en la tesorería.
+No mostrar más recordatorios; depositar directamente los ingresos en el tesoro
 <@ID=window_txt-390700-txt_@>
 Ingresos recibidos por la gestión de la aldea imperial <color=#4CB34C>Plata x{0}</color>
 <@ID=window_txt-390800-txt_@>
@@ -10122,7 +10122,7 @@ Construye las siguientes instalaciones y asigna trabajadores:
 <@ID=window_txt-405301-txt_@>
 Construye los siguientes edificios:
 <@ID=window_txt-405400-txt_@>
-Guarda estos objetos en la Tesorería Nacional:
+Guarda estos objetos en el Tesoro Nacional:
 <@ID=window_txt-405500-txt_@>
 Proporciona la siguiente población:
 <@ID=window_txt-405600-txt_@>
@@ -10470,11 +10470,11 @@ Los residentes bailan alegremente alrededor de la hoguera bajo el cielo nocturno
 <@ID=stuff-104012-stuff_name@>
 Antorcha
 <@ID=stuff-104012-desc@>
-Eleva ligeramente la temperatura del área circundante sin obstaculizar el movimiento. Los obreros pueden encenderla o apagarla según sea necesario.
+Eleva ligeramente la temperatura del área circundante sin obstaculizar el movimiento. Los trabajadores pueden encenderla o apagarla según sea necesario.
 <@ID=stuff-104013-stuff_name@>
 Brasero
 <@ID=stuff-104013-desc@>
-Aumenta significativamente la temperatura del área circundante. Los obreros pueden encenderlo o apagarlo según sea necesario.
+Aumenta significativamente la temperatura del área circundante. Los trabajadores pueden encenderlo o apagarlo según sea necesario.
 <@ID=stuff-104014-stuff_name@>
 Chimenea
 <@ID=stuff-104014-desc@>
@@ -10670,7 +10670,7 @@ Utiliza la caja para setas para cultivar setas en interiores.
 <@ID=stuff-105031-stuff_name@>
 Punto de recolección de recursos
 <@ID=stuff-105031-desc@>
-Asignar obreros para recolectar recursos cercanos.
+Asignar trabajadores para recolectar recursos cercanos.
 <@ID=stuff-105032-stuff_name@>
 Molino
 <@ID=stuff-105032-desc@>
@@ -12374,7 +12374,7 @@ Trono
 <@ID=stuff-902134-stuff_name@>
 Apoyo social
 <@ID=stuff-902134-desc@>
-Los hijos de soldados o los huérfanos que han perdido a ambos padres pueden ser cuidados por obreros.
+Los hijos de soldados o los huérfanos que han perdido a ambos padres pueden ser cuidados por trabajadores.
 <@ID=stuff-902135-stuff_name@>
 Tarima
 <@ID=stuff-902136-stuff_name@>
@@ -16060,7 +16060,7 @@ Operación de construcción: Haz clic en el suelo y dibuja un recuadro con el ra
 <@ID=build-103009-guide_info_@>
 Una bodega de hielo alimentada por magia que conserva de forma permanente los alimentos almacenados. Requiere zafiros mensualmente para funcionar. Los residentes recuperarán los alimentos de la bodega de hielo cuando no haya otros suministros disponibles. Debido a su ubicación subterránea, el transporte de suministros requiere mucho trabajo. Solo se utiliza para el almacenamiento de emergencia de productos perecederos excedentes.
 <@ID=build-109005-guide_info_@>
-1. Los artículos guardados en la tesorería quedan bloqueados para los residentes y no se pueden comerciar.<br>2. Se usan para diplomacia y tributos.<br>3. Con inventario planificado, Gremio de transportistas puede moverlos dentro o fuera del tesorería.
+1. Los artículos guardados en el tesoro quedan bloqueados para los residentes y no se pueden comerciar.<br>2. Se usan para diplomacia y tributos.<br>3. Con inventario planificado, el gremio de mudanzas puede moverlos dentro o fuera del tesoro.
 <@ID=build-103004-guide_info_@>
 1. Aquí comercian caravanas itinerantes; cada una trae tipos y cantidades distintas.<br>2. Configura inventario comercial y los residentes trasladarán artículos a la mesa de comercio.<br>3. Algunos artículos se pagan con prima y otros a precio bajo.<br>4. Si una caravana agota un artículo, traerá más cantidad en su próxima visita.<br>5. Flujo: define inventario, espera a comerciantes, ajusta compra/venta y confirma el intercambio.
 <@ID=build-103005-guide_info_@>
@@ -16082,7 +16082,7 @@ Operación de construcción: Haz clic en el suelo y dibuja un recuadro con el ra
 <@ID=build-104011-guide_info_@>
 Incluso los residentes que rechazan el matrimonio pueden enamorarse fácilmente mientras bailan alrededor de la hoguera, lo que conduce a emparejamientos exitosos.
 <@ID=build-104021-guide_info_@>
-1. Los residentes que vivan demasiado cerca de los aseos verán reducida su felicidad.<br>2. Una vez que los residuos se acumulen hasta cierto nivel, el obreros los trasladará al contenedor de compost para su procesamiento.
+1. Los residentes que vivan demasiado cerca de los aseos verán reducida su felicidad.<br>2. Una vez que los residuos se acumulen hasta cierto nivel, el personal de mantenimiento los trasladará al contenedor de compost para su procesamiento.
 <@ID=build-105024-guide_info_@>
 1. Cada tipo de estatua otorga una bendición mágica distinta.<br>2. Cada bendición consume gemas; sin gemas, no se activa.
 <@ID=build-104019-guide_info_@>
@@ -16176,7 +16176,7 @@ Construye muros más resistentes
 <@ID=tech-1800-tech_desc_@>
 Transporte y distribución a granel de suministros para los residentes, reduciendo el tiempo dedicado a los recados
 <@ID=tech-1900-tech_desc_@>
-Construir una tesorería nacional para centralizar los recursos con fines diplomáticos u ofrendas tributarias, prohibiendo el acceso a los residentes
+Construir un tesoro nacional para centralizar los recursos con fines diplomáticos u ofrendas tributarias, prohibiendo el acceso a los residentes
 <@ID=tech-2000-tech_desc_@>
 Almacenamiento temporal de productos para su transporte a granel, lo que ahorra tiempo
 <@ID=tech-2200-tech_desc_@>
@@ -18688,7 +18688,7 @@ Una ola de frío es un desastre climático. Cuando se produce, las temperaturas 
 <@ID=event-1052-event_name_@>
 Impuesto Real
 <@ID=event-1052-window_info_@>
-El Rey recauda impuestos anualmente, según la población. Las poblaciones inferiores a 100 están exentas de impuestos. Con 100 de población, cada persona paga <color=#4CB34C>10 monedas de plata</color> al año. Con 500 de población, cada persona paga <color=#4CB34C>20 monedas de plata</color> al año. Con 1000 de población, cada persona paga <color=#4CB34C>50 monedas de plata</color> al año. Con 1500 de población, cada persona paga <color=#4CB34C>100 monedas de plata</color> al año. Los impuestos se convierten en Plata y se recaudan primero a través de los bancos y luego de la tesorería. Si en un año no se pueden recaudar los impuestos completos, el Rey mostrará clemencia y concederá exenciones.
+El Rey recauda impuestos anualmente, según la población. Las poblaciones inferiores a 100 están exentas de impuestos. Con 100 de población, cada persona paga <color=#4CB34C>10 monedas de plata</color> al año. Con 500 de población, cada persona paga <color=#4CB34C>20 monedas de plata</color> al año. Con 1000 de población, cada persona paga <color=#4CB34C>50 monedas de plata</color> al año. Con 1500 de población, cada persona paga <color=#4CB34C>100 monedas de plata</color> al año. Los impuestos se convierten en Plata y se recaudan primero a través de los bancos y luego del tesoro. Si en un año no se pueden recaudar los impuestos completos, el Rey mostrará clemencia y concederá exenciones.
 <@ID=event-1053-event_name_@>
 Ataque bárbaro
 <@ID=event-1053-event_desc_@>
@@ -20536,7 +20536,7 @@ Las tierras de cultivo carecen de agua para el riego; es necesario construir pun
 <@ID=summary_notice-350-msg_@>
 No hay agua para la elaboración de cerveza; es necesario construir puntos de recogida de agua o pozos
 <@ID=summary_notice-360-msg_@>
-Los obreros generales realizan tareas como recolección, transporte, encendido de fuego y operaciones de rescate; se debe mantener un número suficiente.
+Los trabajadores generales realizan tareas como recolección, transporte, encendido de fuego y operaciones de rescate; se debe mantener un número suficiente.
 <@ID=summary_notice-370-msg_@>
 Los barracones carecen de personal logístico
 <@ID=summary_notice-380-msg_@>
@@ -20620,7 +20620,7 @@ La tala continua provocará la reducción de los bosques. Plantar árboles mient
 <@ID=tutorial-43-tutorial_desc_@>
 Se deben asignar guardabosques.
 <@ID=tutorial-46-tutorial_desc_@>
-Construye una tesorería para acumular fondos para la investigación.
+Construye un tesoro para acumular fondos para la investigación.
 <@ID=tutorial-47-tutorial_desc_@>
 La preciada miel se puede obtener no solo aventurándose a recolectar panales gigantes silvestres, sino también mediante la apicultura.
 <@ID=tutorial-48-tutorial_desc_@>
@@ -20630,7 +20630,7 @@ Proporcionar buen vino a tus trabajadores residentes puede aumentar significativ
 <@ID=tutorial-52-tutorial_desc_@>
 Requiere asignar un cervecero.
 <@ID=tutorial-55-tutorial_desc_@>
-Construir contenedores de almacenamiento cerca de instalaciones de producción como granjas, huertos y muelles pesqueros permite a los productores centrarse en la producción mientras los obreros transportan mercancías a plena capacidad, lo cual es clave para aumentar la eficiencia. Nota: Cuando la «flecha verde» de un contenedor de almacenamiento se superpone con la «flecha verde» de una instalación de producción, se forma una conexión y se da prioridad a los productos para su colocación directa en el contenedor.
+Construir contenedores de almacenamiento cerca de instalaciones de producción como granjas, huertos y muelles pesqueros permite a los productores centrarse en la producción mientras los trabajadores transportan mercancías a plena capacidad, lo cual es clave para aumentar la eficiencia. Nota: Cuando la «flecha verde» de un contenedor de almacenamiento se superpone con la «flecha verde» de una instalación de producción, se forma una conexión y se da prioridad a los productos para su colocación directa en el contenedor.
 <@ID=tutorial-56-tutorial_desc_@>
 Participa en el comercio: los comerciantes ambulantes te visitarán anualmente para intercambiar productos. También puedes desbloquear más semillas y animales.
 <@ID=tutorial-57-tutorial_desc_@>
@@ -20948,17 +20948,17 @@ Juramento de sangre
 <@ID=dragon_nature-18-desc_@>
 Tras la muerte, aumenta el poder de ataque de todos los dragones aliados un 25 % durante 20 segundos.
 <@ID=note-1-note_content_@>
-Los espíritus pueden servir como obreros gratuitos. No temen ni al frío ni al cansancio y nunca necesitan dormir.
+Los espíritus pueden servir como trabajadores gratuitos. No temen ni al frío ni al cansancio y nunca necesitan dormir.
 <@ID=note-2-note_content_@>
 Los residentes deben ser asignados a una profesión antes de realizar el trabajo correspondiente.
 <@ID=note-3-note_content_@>
-Las tareas de recolección de recursos terrestres son realizadas por <color=#EE4242>Obreros</color>.
+Las tareas de recolección de recursos terrestres son realizadas por <color=#EE4242>Trabajadores</color>.
 <@ID=note-4-note_content_@>
 El juego tiene cuatro niveles de velocidad: 1x, 3x, 5x y 10x.
 <@ID=note-5-note_content_@>
 Las parejas deben ser asignadas a una cama doble para poder reproducirse.
 <@ID=note-6-note_content_@>
-La construcción se divide en tres etapas: despejar el terreno (realizado por <color=#EE4242>Obreros</color>), transportar materiales y construir.
+La construcción se divide en tres etapas: despejar el terreno (realizado por <color=#EE4242>Trabajadores</color>), transportar materiales y construir.
 <@ID=note-7-note_content_@>
 El frío reduce continuamente el calor corporal de los residentes. Las fuentes de fuego son la forma más eficaz de contrarrestarlo.
 <@ID=note-8-note_content_@>
@@ -21041,5 +21041,4 @@ Al menos tener un lugar donde vivir.
 No duermas en el suelo.
 <@ID=npc_words-125-content_@>
 Paso a paso.
-
 

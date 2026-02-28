@@ -5,7 +5,7 @@ Adelaide
 Adele
 Adelina
 Adoracion
-Adriana
+Adriána
 Africa
 Agata
 Agnese
@@ -39,7 +39,7 @@ Alexia
 Alfonsa
 Alfreda
 Alia
-Alicia
+Alíza
 Alida
 Alina
 Alisa
@@ -50,7 +50,7 @@ Alondra
 Altamura
 Alzira
 Amaia
-Amalia
+Amálida
 Amanda
 Amaranta
 Amaya
@@ -68,7 +68,6 @@ Anastácia
 Anastasia
 Anatolia
 Ancilla
-Andrea
 Andreina
 Angela
 Angeles
@@ -177,7 +176,6 @@ Carlotta
 Carme
 Carmela
 Carmen
-Carmine
 Carolina
 Casandra
 Casilda
@@ -189,7 +187,6 @@ Catena
 Caterina
 Cayetana
 Cecília
-Celeste
 Celestina
 Celia
 Celinia
@@ -290,7 +287,6 @@ Elaine
 Elda
 Elena
 Eleonora
-Elia
 Eliana
 Eliane
 Elide
@@ -452,7 +448,6 @@ Guillermina
 Hábia
 Hanna
 Hannah
-Hélder
 Helena
 Heloísa
 Henriqueta
@@ -478,7 +473,6 @@ Ilia
 Iliana
 Iluminada
 Ilva
-Imanol
 Imelda
 Immacolata
 Inácia
@@ -500,7 +494,7 @@ Irina
 Íris
 Irma
 Isa
-Isabel
+Isadora
 Isabella
 Isadora
 Isaura
@@ -530,7 +524,6 @@ Joaquina
 Jolanda
 Josefa
 Josefina
-Jovita
 Juana
 Judith
 Júlia
@@ -577,7 +570,6 @@ Loredana
 Lorella
 Lorena
 Lorenza
-Loreto
 Loretta
 Loriana
 Lourdes
@@ -670,7 +662,6 @@ Milagros
 Milena
 Mimma
 Mina
-Minerva
 Mira
 Miranda
 Mirella
@@ -683,7 +674,6 @@ Modesta
 Monia
 Mónica
 Monserrat
-Montserrat
 Morena
 Myriam
 Nádia
@@ -888,7 +878,6 @@ Sigrid
 Silvana
 Sílvia
 Sima
-Simeão
 Simona
 Simonetta
 Sirena
@@ -949,7 +938,6 @@ Toña
 Tosca
 Triana
 Trini
-Trinidad
 Trinita
 Tristana
 Tullia
@@ -965,7 +953,7 @@ Urânia
 Urbana
 Úrsula
 Uxía
-Valentina
+Valéria
 Valéria
 Vanda
 Vanesa
@@ -1000,7 +988,6 @@ Xandra
 Xénia
 Xilda
 Ximena
-Xisto
 Xuxa
 Yael
 Yamila
@@ -1023,3 +1010,13 @@ Zoe
 Zoraida
 Zuleica
 Zulmira
+Carmen
+Lucía
+María
+Patricia
+Elena
+Pilar
+Raquel
+Beatriz
+Ana
+Verónica
