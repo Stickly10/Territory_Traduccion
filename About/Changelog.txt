@@ -1,4 +1,0 @@
-﻿v1.1
-- Ajuste de tono lore-friendly en misiones.
-- Correcciones de espaciado/puntuación alrededor de <color>.
-- Arreglo de typos y mejoras de textos UI (botones/indicaciones).
