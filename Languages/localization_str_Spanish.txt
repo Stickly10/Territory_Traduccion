@@ -6647,7 +6647,7 @@ Vivienda
 <@ID=window_txt-277200-txt_@>
 Alimentos
 <@ID=window_txt-277300-txt_@>
-Mesa de trabajo
+Manufactura
 <@ID=window_txt-277400-txt_@>
 Logística
 <@ID=window_txt-277500-txt_@>
