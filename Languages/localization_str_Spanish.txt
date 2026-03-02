@@ -10322,7 +10322,7 @@ Configuración del MOD completada. Reinicia el juego para que los cambios surtan
 <@ID=window_txt-415501-txt_@>
 La configuración del MOD se completó. ¡Es necesario reiniciar el juego para que surta efecto!
 En el primer inicio (o tras una actualización del juego), el marco de mods necesita configurarse, lo que puede tardar unos 30 segundos. Por favor, espera.
-El juego no se reiniciará automáticamente; debes iniciarlo manualmente.
+El juego no se reiniciará automáticamente, debes cerrarlo y abrirlo nuevamente tu mismo.
 <@ID=window_txt-415600-txt_@>
 Introduce la ruta absoluta de la carpeta Mod
 <@ID=window_txt-415700-txt_@>
