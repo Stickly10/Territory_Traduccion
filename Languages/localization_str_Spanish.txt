@@ -1115,7 +1115,7 @@ Instalaciones relacionadas:
 <@ID=window_txt-43700-txt_@>
 {0} <color=grey>Rendimiento por planta </color><color=#EE4242>{1}</color> (Trabajadores cualificados o cerdos <color=#4CB34C>+{2}</color>)<color=grey> El riego aumenta el rendimiento</color><color=#EE4242> +{3}</color><color=grey>, El fertilizante aumenta el rendimiento</color><color=#EE4242> +{4}</color><color=grey>, Aumento del rendimiento gracias a la polinización de las abejas</color><color=#EE4242> +{5}</color><color=grey>, Requisitos de riego</color><color=#4CB34C> {6}</color><color=grey>, Requisitos de fertilizantes</color><color=#4CB34C> {7}</color><color=grey>, Temperatura óptima de crecimiento</color> <color=#4CB34C>{8} a {9} °C</color><color=grey>, Período de desarrollo de las plántulas</color> <color=#4CB34C>{10} años</color><color=grey>, Vida útil máxima</color> <color=#4CB34C>{11} años</color><color=grey>, Mes de inicio de la cosecha</color> <color=#4CB34C>{12}</color><color=grey>.</color>
 <@ID=window_txt-43800-txt_@>
-Principios de primavera, primavera, finales de primavera, principios de verano, pleno verano, finales de verano, principios de otoño, pleno otoño, finales de otoño, principios de invierno, pleno invierno, finales de invierno
+ Principios de primavera , primavera , finales de primavera , principios de verano , pleno verano , finales de verano , principios de otoño , pleno otoño , finales de otoño , principios de invierno , pleno invierno , finales de invierno 
 <@ID=window_txt-43900-txt_@>
 Productos diarios:
 <@ID=window_txt-44000-txt_@>
@@ -5334,8 +5334,6 @@ El carretero se quedó paralizado y se desmayó mientras conducía
 {0} Se desmayó por la exposición al frío
 <@ID=window_txt-224200-txt_@>
 No se ha podido cargar el archivo guardado. Ponte en contacto con el equipo de desarrollo.
-<@ID=window_txt-224300-txt_@>
-/Territory_Data/Plugins/x86_64/steam_api64. dll
 <@ID=window_txt-224400-txt_@>
 Acceso denegado
 <@ID=window_txt-224500-txt_@>
@@ -8110,6 +8108,8 @@ Rechazar
 Enfocar automáticamente la cámara hacia el nuevo residente recibido
 <@ID=window_txt-334200-txt_@>
 Recibir
+<@ID=window_txt-334201-txt_@>
+Ver información de raza
 <@ID=window_txt-334300-txt_@>
 Este grupo de personas desplazadas ha puesto sus ojos en tu territorio. Tras ser rechazados en los refugios, se han unido a los bandidos y planean apoderarse de él por la fuerza.
 <@ID=window_txt-334400-txt_@>
@@ -10315,6 +10315,120 @@ Necesita recoger este objeto en {0} días
 Durabilidad restante: {0}
 <@ID=window_txt-415300-txt_@>
 Necesita recoger este objeto
+<@ID=window_txt-415400-txt_@>
+La funcionalidad del MOD se ha deshabilitado. ¡Reinicia el juego para que los cambios surtan efecto!
+<@ID=window_txt-415500-txt_@>
+Configuración del MOD completada. Reinicia el juego para que los cambios surtan efecto.
+<@ID=window_txt-415501-txt_@>
+La configuración del MOD se completó. ¡Es necesario reiniciar el juego para que surta efecto!
+En el primer inicio (o tras una actualización del juego), el marco de mods necesita configurarse, lo que puede tardar unos 30 segundos. Por favor, espera.
+El juego no se reiniciará automáticamente; debes iniciarlo manualmente.
+<@ID=window_txt-415600-txt_@>
+Introduce la ruta absoluta de la carpeta Mod
+<@ID=window_txt-415700-txt_@>
+Subiendo: {0:P0}
+<@ID=window_txt-415800-txt_@>
+Subida completada
+<@ID=window_txt-415900-txt_@>
+Error al subir
+<@ID=window_txt-416000-txt_@>
+La ruta no existe
+<@ID=window_txt-416100-txt_@>
+La ruta del MOD no puede estar vacía
+<@ID=window_txt-416200-txt_@>
+El directorio raíz del MOD no existe
+<@ID=window_txt-416300-txt_@>
+Falta la carpeta About
+<@ID=window_txt-416400-txt_@>
+Falta el archivo About.xml
+<@ID=window_txt-416500-txt_@>
+Falta el archivo Preview.png
+<@ID=window_txt-416600-txt_@>
+El archivo Preview.png está vacío
+<@ID=window_txt-416700-txt_@>
+Error de formato XML en About.xml:
+<@ID=window_txt-416800-txt_@>
+Falta el nodo raíz ModMetaData
+<@ID=window_txt-416900-txt_@>
+name no puede estar vacío
+<@ID=window_txt-417000-txt_@>
+description no puede estar vacío
+<@ID=window_txt-417100-txt_@>
+url no puede estar vacío
+<@ID=window_txt-417200-txt_@>
+packageId no puede estar vacío
+<@ID=window_txt-417300-txt_@>
+packageId solo puede contener letras, números y puntos
+<@ID=window_txt-417400-txt_@>
+modVersion no puede estar vacío
+<@ID=window_txt-417500-txt_@>
+modVersion debe tener formato x.y, por ejemplo 1.0
+<@ID=window_txt-417600-txt_@>
+authors debe contener al menos un autor
+<@ID=window_txt-417700-txt_@>
+authors contiene un nombre de autor vacío
+<@ID=window_txt-417800-txt_@>
+supportedVersions debe contener al menos una versión
+<@ID=window_txt-417900-txt_@>
+supportedVersions contiene un número de versión vacío
+<@ID=window_txt-418000-txt_@>
+Administrador de mods
+<@ID=window_txt-418100-txt_@>
+Activar/Desactivar mod
+<@ID=window_txt-418200-txt_@>
+Subir mod
+<@ID=window_txt-418300-txt_@>
+Obtener mods
+<@ID=window_txt-418400-txt_@>
+Suscrito pero no activado
+<@ID=window_txt-418500-txt_@>
+Activado
+<@ID=window_txt-418600-txt_@>
+Cómo crear un mod:
+Paso 1: Lee el tutorial de creación de mods
+Paso 2: Sube el mod
+<@ID=window_txt-418700-txt_@>
+Tutorial
+<@ID=window_txt-418800-txt_@>
+Subir mod
+<@ID=window_txt-418900-txt_@>
+Cómo usar mods:
+Paso 1: Suscríbete al mod en Steam Workshop
+Paso 2: Activa el mod dentro del juego y reinicia cuando se te indique
+<@ID=window_txt-419000-txt_@>
+Suscribirse a mods
+<@ID=window_txt-419100-txt_@>
+Activar
+<@ID=window_txt-419200-txt_@>
+Desactivar
+<@ID=window_txt-419300-txt_@>
+Cancelar suscripción
+<@ID=window_txt-419400-txt_@>
+Activar todo
+<@ID=window_txt-419500-txt_@>
+Desactivar todo
+<@ID=window_txt-419600-txt_@>
+Todos los mods ya están activados
+<@ID=window_txt-419700-txt_@>
+Todos los mods ya están desactivados
+<@ID=window_txt-419800-txt_@>
+¿Seguro que quieres cancelar la suscripción a este mod?
+<@ID=window_txt-419900-txt_@>
+Instalando el marco de mods, por favor espera.
+<@ID=window_txt-420000-txt_@>
+About.xml no existe:
+<@ID=window_txt-420100-txt_@>
+El contenido de About.xml está incompleto; name o description está vacío
+<@ID=window_txt-420200-txt_@>
+No se pudo leer About.xml:
+<@ID=window_txt-420300-txt_@>
+Steam no está inicializado
+<@ID=window_txt-420400-txt_@>
+Error al enviar a Steam:
+<@ID=window_txt-420500-txt_@>
+Error de subida:
+<@ID=window_txt-420600-txt_@>
+Buscar
 <@ID=stuff-100001-stuff_name@>
 Transporte inicial
 <@ID=stuff-100001-desc@>
@@ -21041,6 +21155,7 @@ Al menos tener un lugar donde vivir.
 No duermas en el suelo.
 <@ID=npc_words-125-content_@>
 Paso a paso.
+
 
 
 
