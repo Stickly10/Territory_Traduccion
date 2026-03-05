@@ -19,6 +19,8 @@ Agostino
 Agusti
 Agustín
 Aires
+Aitor
+Alan
 Albano
 Alberico
 Albert
@@ -29,6 +31,7 @@ Alejo
 Alessandro
 Alessio
 Alexandre
+Alexis
 Alfio
 Alfonso
 Alfonzo
@@ -46,6 +49,7 @@ Amilcare
 Anacleto
 Anastasio
 Anatolio
+Ander
 Andoni
 André
 Andrés
@@ -62,6 +66,7 @@ Antolin
 Antonello
 Antoni
 Antonino
+Antonio
 António
 Apolinar
 Arcadio
@@ -77,6 +82,7 @@ Artur
 Arturo
 Ascanio
 Asdrúbal
+Asier
 Assunto
 Astolfo
 Atanasio
@@ -113,6 +119,7 @@ Biagio
 Bienvenido
 Blas
 Bonaldo
+Bonaventura
 Bonifácio
 Boris
 Bortolo
@@ -121,6 +128,7 @@ Braulio
 Brizio
 Bruno
 Caetano
+Calisto
 Calixto
 Callisto
 Calogero
@@ -128,11 +136,13 @@ Camillo
 Camilo
 Cándido
 Carles
+Carlitos
 Carlo
-Cástulo
+Carlos
 Carmelo
 Casimiro
 Cassiano
+Cástulo
 Cataldo
 Catello
 Cayetano
@@ -150,9 +160,11 @@ Cirillo
 Cirilo
 Ciro
 Claudiano
+Claudio
 Cláudio
-Clemente
 Clemens
+Clemente
+Colombano
 Comunardo
 Concetto
 Conrado
@@ -163,6 +175,7 @@ Coriolano
 Cornelio
 Corrado
 Cosimo
+Cosme
 Cósme
 Costante
 Costantino
@@ -203,6 +216,7 @@ Dinis
 Dino
 Diógenes
 Diogo
+Dionisio
 Dionísio
 Domenico
 Domingo
@@ -212,6 +226,7 @@ Donatello
 Donato
 Duarte
 Duilio
+Eberardo
 Edelmiro
 Edgar
 Edgardo
@@ -231,6 +246,7 @@ Egeo
 Egidio
 Eladio
 Eleuterio
+Elias
 Elías
 Eligio
 Elio
@@ -294,6 +310,7 @@ Fabiano
 Fábio
 Fabricio
 Fabrizio
+Facundo
 Falconio
 Faustino
 Fausto
@@ -302,9 +319,10 @@ Felice
 Feliciano
 Felipe
 Félix
+Ferán
 Ferdinando
 Fermín
-Ferán
+Fernando
 Ferran
 Ferruccio
 Fidel
@@ -494,7 +512,7 @@ Jacopo
 Jaime
 Januario
 Jaume
-Jovian
+Javier
 Jénerson
 Jeremías
 Jerónimo
@@ -504,6 +522,7 @@ João
 Joaquim
 Joaquín
 Jocundo
+Joel
 Jon
 Jonás
 Jonatan
@@ -516,11 +535,14 @@ Joseba
 Josep
 Josu
 Josué
+Jovian
 Juan
 Julian
+Julio
 Júlio
 Justino
 Justo
+Kevin
 Lamberto
 Lancillotto
 Lando
@@ -562,6 +584,7 @@ Luciano
 Lúcio
 Ludovico
 Luigi
+Luis
 Luís
 Macario
 Maffeo
@@ -585,6 +608,7 @@ Marco
 Marcos
 Mariano
 Marino
+Mario
 Mário
 Martim
 Martino
@@ -628,6 +652,7 @@ Moisés
 Muzio
 Nabor
 Nadir
+Nahuel
 Nanni
 Narciso
 Natalino
@@ -660,6 +685,7 @@ Norberto
 Nuno
 Nunzio
 Obdulio
+Octavio
 Octávio
 Oddone
 Odemar
@@ -670,6 +696,7 @@ Olavo
 Olegário
 Olimpio
 Olimpo
+Oliver
 Oliviero
 Olívio
 Omar
@@ -705,6 +732,7 @@ Ovídio
 Pablo
 Paciano
 Pacífico
+Paco
 Palmiro
 Pancracio
 Pancrazio
@@ -717,6 +745,7 @@ Pascal
 Pascoal
 Pasquale
 Paterniano
+Patricio
 Patrício
 Patrizio
 Paulino
@@ -786,7 +815,7 @@ René
 Renzo
 Respicio
 Ricard
-Rufius
+Ricardo
 Riccardo
 Rigoberto
 Rinaldo
@@ -816,6 +845,7 @@ Rubén
 Rubens
 Rúdi
 Rufino
+Rufius
 Ruggero
 Rui
 Ruperto
@@ -848,6 +878,7 @@ Secundino
 Segismundo
 Segundo
 Serafin
+Sergio
 Sérgio
 Servando
 Sesto
@@ -997,6 +1028,7 @@ Vittorio
 Vivaldo
 Viviano
 Volfango
+Wilfredo
 Xabier
 Xalbat
 Xande
@@ -1008,6 +1040,7 @@ Yanni
 Yeray
 Yeremi
 Yerónimo
+Yonatan
 Yuri
 Yves
 Zabedeo
@@ -1031,13 +1064,3 @@ Zito
 Zósimo
 Zótico
 Zózimo
-Juan
-José
-Luis
-Carlos
-Fernando
-Javier
-Antonio
-Ricardo
-Miguel
-Ramón
