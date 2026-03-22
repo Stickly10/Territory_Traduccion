@@ -2014,30 +2014,6 @@ Operaciones
 Operaciones automáticas
 <@ID=window_txt-81200-txt_@>
 Contratación
-<@ID=window_txt-81300-txt_@>
-Mercado de flores
-<@ID=window_txt-81301-txt_@>
-Ver tareas
-<@ID=window_txt-81302-txt_@>
-Ver tareas
-<@ID=window_txt-81303-txt_@>
-Ver tareas
-<@ID=window_txt-81304-txt_@>
-Ver tareas
-<@ID=window_txt-81305-txt_@>
-Ver tareas
-<@ID=window_txt-81306-txt_@>
-Mercado de flores
-<@ID=window_txt-81307-txt_@>
-Mercado de flores
-<@ID=window_txt-81308-txt_@>
-Mercado de flores
-<@ID=window_txt-81309-txt_@>
-Mercado de flores
-<@ID=window_txt-81310-txt_@>
-Mercado de flores
-<@ID=window_txt-81311-txt_@>
-Mercado de flores
 <@ID=window_txt-81400-txt_@>
 Refugiado
 <@ID=window_txt-81500-txt_@>
@@ -2219,7 +2195,7 @@ Se ha pagado de más {0}
 <@ID=window_txt-90200-txt_@>
 Aún se necesita {0}
 <@ID=window_txt-90300-txt_@>
-{0} construido al aire libre, <color=#EE4242>Los comerciantes lo venden al doble de precio</color>
+{0}Construido al aire libre, <color=#EE4242>Los comerciantes lo venden al doble de precio</color>
 <@ID=window_txt-90400-txt_@>
 Espacio de almacenamiento del puesto comercial insuficiente, no se pueden realizar transacciones.
 <@ID=window_txt-90401-txt_@>
@@ -2669,27 +2645,27 @@ Falta de combustible (Configuración actual de combustible: {0})
 <@ID=window_txt-109900-txt_@>
 (Vinculado a: <color=#EE4242>{0}</color>)
 <@ID=window_txt-110000-txt_@>
-Flor admirada
+Ver
 <@ID=window_txt-110100-txt_@>
-Miel cosechada
+Miel
 <@ID=window_txt-110101-txt_@>
-Ver tareas
+Tareas
 <@ID=window_txt-110200-txt_@>
 Sin flor elegida
 <@ID=window_txt-110300-txt_@>
-Empieza a florecer en <color=#4CB34C>{0}</color>.<br>La floración dura <color=#4CB34C>{1}</color> meses
+Florece en <color=#4CB34C>{0}</color> durante <color=#4CB34C>{1}</color> meses
 <@ID=window_txt-110301-txt_@>
-Da fruto en <color=#4CB34C>{0}</color>.<br>Durante <color=#4CB34C>{1}</color> meses produce<br><color=#4CB34C>{2} x{3}</color> al mes
+<color=#4CB34C>{0}</color> da fruto <color=#4CB34C>{1}</color> meses<br><color=#4CB34C>{2} x{3}</color>/mes
 <@ID=window_txt-110302-txt_@>
-Fase del árbol: {0}
+Fase: {0}
 <@ID=window_txt-110303-txt_@>
-Empieza a florecer en <color=#4CB34C>{0}</color>.<br>La floración dura <color=#4CB34C>{1}</color> meses y vuelve a florecer cada <color=#4CB34C>{2}</color> meses
+<color=#4CB34C>{0}</color>: floraci?n de <color=#4CB34C>{1}</color> meses, se repite cada <color=#4CB34C>{2}</color> meses
 <@ID=window_txt-110400-txt_@>
 Sin semillas florales
 <@ID=window_txt-110500-txt_@>
 No hay m?s semillas florales
 <@ID=window_txt-110600-txt_@>
- veces
+ vez
 <@ID=window_txt-110700-txt_@>
 Sin agua: no florece
 <@ID=window_txt-110701-txt_@>
@@ -2699,15 +2675,15 @@ Progreso: <color=#4CB34C>{0}/{1}</color>
 <@ID=window_txt-110703-txt_@>
 Sin cultivo especial
 <@ID=window_txt-110704-txt_@>
-Mientras la flor está en cultivo, no puede recolectarse.<br>Cada año puedes consumir gemas en la Estatua de Flores para mejorarla una vez.<br>Cuando termine el cultivo, podrás recolectar flores de mayor nivel.
+Las flores no pueden cosecharse durante la etapa de cultivo. Cada año, al consumir gemas de la Estatua de Flores se permite una mejora. Tras completar el cultivo, se pueden cosechar flores de mayor nivel.
 <@ID=window_txt-110705-txt_@>
-Se puede recolectar desde <color=#4CB34C>{0}</color> durante <color=#4CB34C>{1}</color> meses<br><color=#4CB34C>{2} x{3}</color>/mes
+<color=#4CB34C>{0}</color> cosechable <color=#4CB34C>{1}</color> meses<br><color=#4CB34C>{2} x{3}</color>/mes
 <@ID=window_txt-110706-txt_@>
-Bono cercano de la Estatua de Flores:<br>Producción <color=#4CB34C>x{0}</color>
+Bono cercano:<br>Producci?n <color=#4CB34C>x{0}</color>
 <@ID=window_txt-110707-txt_@>
 Sin estatuas florales cerca
 <@ID=window_txt-110708-txt_@>
-Hay <color=#EE4242>{0}</color> <color=#4CB34C>estatuas florales</color> cerca. Haz clic para verlas
+Hay <color=#EE4242>{0}</color> <color=#4CB34C>estatuas florales</color> cerca
 <@ID=window_txt-110709-txt_@>
 (Puede cultivarse una vez al año, consume 1 gema de la Estatua de Flores).
 <@ID=window_txt-110800-txt_@>
@@ -3053,7 +3029,7 @@ Recetas recientes:
 <@ID=window_txt-126800-txt_@>
 Uso
 <@ID=window_txt-126900-txt_@>
-Comida estropeada por guardarse demasiado tiempo
+Alimentos en mal estado debido a un almacenamiento prolongado
 <@ID=window_txt-126901-txt_@>
 Residuos humanos
 <@ID=window_txt-126902-txt_@>
@@ -3815,7 +3791,7 @@ Noche
 <@ID=window_txt-161100-txt_@>
 Soleado
 <@ID=window_txt-161200-txt_@>
-Año {0} {1} {2}
+Año {0}{1}{2}
 <@ID=window_txt-161300-txt_@>
 {0}{1} °C
 <@ID=window_txt-161400-txt_@>
@@ -4129,7 +4105,7 @@ Sin armadura
 <@ID=window_txt-174900-txt_@>
 Sin escudo
 <@ID=window_txt-175000-txt_@>
-años
+Años de antigüedad
 <@ID=window_txt-175100-txt_@>
 Bebé
 <@ID=window_txt-175200-txt_@>
@@ -7475,7 +7451,7 @@ Prioridad de tarea <color=#4CB34C>+{0}</color>
 <@ID=window_txt-308200-txt_@>
 Prioridad de tarea base
 <@ID=window_txt-308300-txt_@>
-Los obreros se encargan de las tareas asignadas aquí. Las tareas de alta prioridad se ejecutarán primero.
+El obreros se encarga de las tareas asignadas aquí. Las tareas de alta prioridad se ejecutarán primero.
 <@ID=window_txt-308400-txt_@>
 Seleccionar sucesor
 <@ID=window_txt-308500-txt_@>
@@ -8643,7 +8619,7 @@ Después de la detonación, vuelve a colocar la mina automáticamente.
 <@ID=window_txt-355600-txt_@>
 Detonar
 <@ID=window_txt-355700-txt_@>
-Memoria de <color=#EE4242>{0}</color>
+<color=#EE4242>{0}</color> memoria
 <@ID=window_txt-355800-txt_@>
 Cantidad en inventario: <color=#4CB34C>{0}</color>, reservada para tareas: <color=#EE4242>{1}</color>
 <@ID=window_txt-355900-txt_@>
@@ -10346,7 +10322,7 @@ Configuración del MOD completada. Reinicia el juego para que los cambios surtan
 <@ID=window_txt-415501-txt_@>
 La configuración del MOD se completó. ¡Es necesario reiniciar el juego para que surta efecto!
 En el primer inicio (o tras una actualización del juego), el marco de mods necesita configurarse, lo que puede tardar unos 30 segundos. Por favor, espera.
-El juego no se reiniciará automáticamente, debes cerrarlo y abrirlo nuevamente tu mismo.
+El juego no se reiniciará automáticamente; debes iniciarlo manualmente.
 <@ID=window_txt-415600-txt_@>
 Introduce la ruta absoluta de la carpeta Mod
 <@ID=window_txt-415700-txt_@>
@@ -11636,7 +11612,7 @@ Heces
 <@ID=stuff-610001-desc@>
 Al colocar el estiércol en un contenedor de compost, se convierte en fertilizante.
 <@ID=stuff-610002-stuff_name@>
-Comida estropeada
+Alimentos en mal estado
 <@ID=stuff-610002-desc@>
 Se pueden utilizar para hacer compost o cocinar platos oscuros.
 <@ID=stuff-610003-stuff_name@>
@@ -11862,7 +11838,7 @@ Una flor con un importante valor medicinal que da «<color=#4CB34C>Fruta de la v
 <@ID=stuff-704011-stuff_name@>
 Olvidaria
 <@ID=stuff-704011-desc@>
-Planta que produce «<color=#4CB34C>Fruta del olvido</color>», un ingrediente excelente para elaborar «<color=#4CB34C>té de hierbas</color>».
+Planta que produce «<color=#4CB34C>bayas de nomeolvides</color>», un ingrediente excelente para elaborar «<color=#4CB34C>té medicinal</color>».
 <@ID=stuff-704012-stuff_name@>
 Baya de verano
 <@ID=stuff-704012-desc@>
@@ -16082,7 +16058,7 @@ Pescado
 <@ID=summary_rule-20111-summary_name_@>
 Carne
 <@ID=summary_rule-20112-summary_name_@>
-Comida estropeada
+Alimentos en mal estado
 <@ID=summary_rule-20113-summary_name_@>
 Camarones y cangrejos
 <@ID=summary_rule-20114-summary_name_@>
@@ -16220,7 +16196,7 @@ Operación de construcción: Haz clic en el suelo y dibuja un recuadro con el ra
 <@ID=build-104011-guide_info_@>
 Incluso los residentes que rechazan el matrimonio pueden enamorarse fácilmente mientras bailan alrededor de la hoguera, lo que conduce a emparejamientos exitosos.
 <@ID=build-104021-guide_info_@>
-1. Los residentes que vivan demasiado cerca de los aseos verán reducida su felicidad.<br>2. Una vez que los residuos se acumulen hasta cierto nivel, los obreros los trasladarán al contenedor de compost para su procesamiento.
+1. Los residentes que vivan demasiado cerca de los aseos verán reducida su felicidad.<br>2. Una vez que los residuos se acumulen hasta cierto nivel, el obreros los trasladará al contenedor de compost para su procesamiento.
 <@ID=build-105024-guide_info_@>
 1. Cada tipo de estatua otorga una bendición mágica distinta.<br>2. Cada bendición consume gemas, sin gemas, no se activa.
 <@ID=build-104019-guide_info_@>
@@ -20472,7 +20448,7 @@ Lobo
 <@ID=race-6-career_effect_desc_@>
 Talento racial: Rendimiento agrícola x{0:P0}
 <@ID=race-6-family_name_@>
-Cerdo
+Pig
 <@ID=race-7-family_name_@>
 Espíritu
 <@ID=race-8-career_effect_desc_@>
@@ -21184,19 +21160,3 @@ Paso a paso.
 
 
 
-<@ID=window_txt-418901-txt_@>
-Aviso:
-Después de habilitar los Mods, los datos no se enviarán a la tabla de clasificación.
-La mayoría de los Mods no afectan la obtención de logros, pero algunos Mods pueden desactivar la obtención de logros.
-<@ID=window_txt-420700-txt_@>
-Tabla de clasificación - <color=#EE4242>Deshabilitado</color>
-<@ID=window_txt-420800-txt_@>
-Logros - <color=#EE4242>Deshabilitado</color>
-<@ID=window_txt-420900-txt_@>
-Este archivo guardado contiene contenido de mods que no est?n instalados actualmente. ?Deseas ver estos mods?
-<@ID=window_txt-421000-txt_@>
-No volver a recordarlo
-<@ID=window_txt-421100-txt_@>
-Desactivar este aviso
-<@ID=window_txt-421200-txt_@>
-?Seguro que no desea volver a mostrar este aviso?

@@ -1,0 +1,93 @@
+[
+    {
+        "id": 81300,
+        "type": 0,
+        "window_name": "window_trading_desk",
+        "txt_id": "content_area/tabs/btn_4/Text (TMP)",
+        "txt_zh-CN": "花市"
+    },
+    {
+        "id": 110101,
+        "type": 0,
+        "window_name": "window_flower_pot",
+        "txt_id": "content_area/content_area/btn_handyman_task/Text (TMP)",
+        "txt_zh-CN": "查看杂工任务"
+    },
+    {
+        "id": 81301,
+        "type": 0,
+        "window_name": "window_flower_pot2",
+        "txt_id": "content_area/content_area/btn_handyman_task/Text (TMP)",
+        "txt_zh-CN": "查看杂工任务"
+    },
+    {
+        "id": 81302,
+        "type": 0,
+        "window_name": "window_flower_pot3",
+        "txt_id": "content_area/content_area/btn_handyman_task/Text (TMP)",
+        "txt_zh-CN": "查看杂工任务"
+    },
+    {
+        "id": 81303,
+        "type": 0,
+        "window_name": "window_flower_pot",
+        "txt_id": "content_area/btn_handyman_task/Text (TMP)",
+        "txt_zh-CN": "查看杂工任务"
+    },
+    {
+        "id": 81304,
+        "type": 0,
+        "window_name": "window_flower_pot2",
+        "txt_id": "content_area/btn_handyman_task/Text (TMP)",
+        "txt_zh-CN": "查看杂工任务"
+    },
+    {
+        "id": 81305,
+        "type": 0,
+        "window_name": "window_flower_pot3",
+        "txt_id": "content_area/btn_handyman_task/Text (TMP)",
+        "txt_zh-CN": "查看杂工任务"
+    },
+    {
+        "id": 81306,
+        "type": 0,
+        "window_name": "window_trading_port",
+        "txt_id": "content_area/tabs/btn_4/Text (TMP)",
+        "txt_zh-CN": "花市"
+    },
+    {
+        "id": 81307,
+        "type": 0,
+        "window_name": "window_trading_port",
+        "txt_id": "tabs/btn_4/Text (TMP)",
+        "txt_zh-CN": "花市"
+    },
+    {
+        "id": 81308,
+        "type": 0,
+        "window_name": "window_trading_desk",
+        "txt_id": "tabs/btn_4/Text (TMP)",
+        "txt_zh-CN": "花市"
+    },
+    {
+        "id": 81309,
+        "type": 0,
+        "window_name": "window_trading_port",
+        "txt_id": "content_area/tabs/btn_4/txt",
+        "txt_zh-CN": "花市"
+    },
+    {
+        "id": 81310,
+        "type": 0,
+        "window_name": "window_trading_port",
+        "txt_id": "content_area/tabs/btn_4/Label",
+        "txt_zh-CN": "花市"
+    },
+    {
+        "id": 81311,
+        "type": 0,
+        "window_name": "window_trading_port",
+        "txt_id": "content_area/tabs/btn_4/Text",
+        "txt_zh-CN": "花市"
+    }
+]
